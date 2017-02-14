@@ -1,0 +1,72 @@
+Vanilla training -1
+Total score:  82.0
+Total score:  58.0
+Total score:  58.0
+Total score:  58.0
+Total score:  82.0
+Total score:  70.0
+Total score:  94.0
+Total score:  70.0
+Total score:  58.0
+Total score:  63.0
+
+Vanilla training -2
+Total score:  82.0
+Total score:  70.0
+Total score:  70.0
+Total score:  70.0
+Total score:  58.0
+Total score:  82.0
+Total score:  70.0
+Total score:  82.0
+Total score:  82.0
+Total score:  82.0
+
+Vanilla training -3
+Total score:  58.0
+Total score:  70.0
+Total score:  94.0
+Total score:  70.0
+Total score:  82.0
+Total score:  70.0
+Total score:  58.0
+Total score:  70.0
+Total score:  94.0
+Total score:  82.0
+
+
+Step-learning -1
+Total score:  82.0
+Total score:  94.0
+Total score:  82.0
+Total score:  82.0
+Total score:  82.0
+Total score:  94.0
+Total score:  82.0
+Total score:  94.0
+Total score:  94.0
+Total score:  70.0
+
+Step-learning -2
+Total score:  70.0
+Total score:  70.0
+Total score:  82.0
+Total score:  75.0
+Total score:  94.0
+Total score:  70.0
+Total score:  53.0
+Total score:  82.0
+Total score:  70.0
+Total score:  70.0
+
+Step-learning -3
+Total score:  94.0
+Total score:  70.0
+Total score:  94.0
+Total score:  94.0
+Total score:  82.0
+Total score:  70.0
+Total score:  94.0
+Total score:  70.0
+Total score:  94.0
+Total score:  94.0
